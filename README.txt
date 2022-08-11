@@ -1,0 +1,2 @@
+This project is my attempt to program a working version of McDowell (2013), A Quantitative Evolutionary Theory of Adaptive Behavior Dynamics, with Java. 
+In order to access the full paper check out https://doi.org/10.1037/a0034244
